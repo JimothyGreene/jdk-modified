@@ -118,6 +118,7 @@ public class Tokens {
         FOR("for"),
         GOTO("goto"),
         IF("if"),
+        IFF("iff"),
         IMPLEMENTS("implements"),
         IMPORT("import"),
         INSTANCEOF("instanceof"),
